@@ -1,19 +1,21 @@
-## Welcome to GitHub Pages
+# Title of GitHub Page
 
-You can use the [editor on GitHub](https://github.com/cruelfox/cruelfox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is main page generated from **index.md**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Level 2 Header Text
 
-### Markdown
+Showing some text here, with 中文
+To use italic text like _this_, write `code style` between underbars
+
+### Markdown (level 3 header text)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# commented text
+#
 
 - Bulleted
 - List
@@ -25,6 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![test](test.jpg')
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
